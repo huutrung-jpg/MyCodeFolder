@@ -1,0 +1,130 @@
+ĐIỀU KHOẢN SỬ DỤNG [VEO3 PLUS] (Terms of Use)
+Phiên bản: [v1.2] — Ngày hiệu lực: [18/8/2025]
+Chủ sở hữu: [TÊN TỔ CHỨC/ CÁ NHÂN] — Liên hệ: [EMAIL HỖ TRỢ]
+
+MỤC LỤC
+1. Chấp nhận điều khoản
+2. Định nghĩa
+3. Cấp phép sử dụng (License)
+4. Kích hoạt, chứng thực và giới hạn thiết bị
+5. Cập nhật, thay đổi và tính tương thích
+6. Quyền sở hữu trí tuệ
+7. Nội dung do người dùng tạo
+8. Quy tắc sử dụng chấp nhận được
+9. Các hành vi bị cấm
+10. Dịch vụ/Thành phần bên thứ ba
+11. Dữ liệu, quyền riêng tư và nhật ký
+12. Trí tuệ nhân tạo và tuyên bố miễn trừ
+13. Phí, thanh toán và hoàn tiền
+14. Hỗ trợ kỹ thuật và SLA
+15. Bảo mật, chống can thiệp và chống gian lận
+16. Tuyên bố miễn trừ bảo đảm
+17. Giới hạn trách nhiệm
+18. Bồi thường thiệt hại (Indemnity)
+19. Chấm dứt và đình chỉ
+20. Luật áp dụng và giải quyết tranh chấp
+21. Điều khoản chung
+22. Thay đổi điều khoản và thông báo
+23. Liên hệ
+
+1) Chấp nhận điều khoản
+Bằng việc cài đặt, truy cập hoặc sử dụng [VEO3 PLUS], bạn xác nhận đã đọc, hiểu và đồng ý bị ràng buộc bởi Điều khoản này và các chính sách liên quan (ví dụ: Chính sách bảo mật). Nếu bạn không đồng ý, vui lòng không sử dụng công cụ.
+
+2) Định nghĩa
+“Công cụ”: phần mềm, tài liệu kèm theo, mẫu, thư viện, mã nguồn dạng đối tượng của [VEO3 PLUS]. “Bạn/Người dùng”: cá nhân hoặc tổ chức sử dụng Công cụ. “Chứng thư/Cert”: dữ liệu cấp quyền ngắn hạn phục vụ kích hoạt. “Thiết bị được ủy quyền”: máy tính mà license được gắn.
+
+3) Cấp phép sử dụng (License)
+Cấp cho bạn giấy phép hạn chế, không độc quyền, không chuyển nhượng để cài đặt và dùng Công cụ cho mục đích [cá nhân/nội bộ doanh nghiệp]. Trừ khi được cho phép bằng văn bản, bạn không được bán lại, cho thuê, cấp phép lại, hay dùng Công cụ cung cấp dịch vụ cho bên thứ ba.
+
+4) Kích hoạt, chứng thực và giới hạn thiết bị
+Công cụ có thể yêu cầu kích hoạt qua khóa bản quyền và/hoặc chứng thư ngắn hạn (short-lease). Chứng thư có thể có thời hạn, ràng buộc thiết bị, cần kết nối mạng định kỳ để gia hạn. Cố tình vượt cơ chế kích hoạt/anti-tamper là vi phạm nghiêm trọng và có thể dẫn đến chấm dứt license.
+
+5) Cập nhật, thay đổi và tính tương thích
+Chúng tôi có thể phát hành bản vá, tính năng mới hoặc thay đổi kỹ thuật (bao gồm cơ chế bảo vệ). Một số cập nhật là bắt buộc để duy trì an toàn và tuân thủ. Tính tương thích ngược có thể không được đảm bảo.
+
+6) Quyền sở hữu trí tuệ
+Chúng tôi (và/hoặc bên cấp phép) sở hữu toàn bộ quyền đối với Công cụ, logo, tài liệu, và nội dung đi kèm. Điều khoản này không chuyển giao bất kỳ quyền sở hữu nào cho bạn. Mọi quyền không cấp rõ ràng đều được bảo lưu.
+
+7) Nội dung do người dùng tạo
+Bạn giữ quyền đối với nội dung đầu vào/đầu ra do bạn cung cấp/tạo. Bạn trao cho chúng tôi giấy phép toàn cầu, không độc quyền, miễn phí bản quyền để xử lý nội dung đó nhằm vận hành, cải thiện Công cụ. Bạn chịu trách nhiệm đảm bảo bạn có đầy đủ quyền đối với nội dung.
+
+8) Quy tắc sử dụng chấp nhận được
+Sử dụng Công cụ tuân thủ pháp luật hiện hành; tôn trọng quyền SHTT, quyền riêng tư; không gây gián đoạn dịch vụ; không làm ảnh hưởng xấu tới an ninh mạng, hệ thống hoặc người khác.
+
+9) Các hành vi bị cấm
+Cấm: đảo ngược mã, giải mã, bẻ khóa, vượt kiểm soát giấy phép; can thiệp chống giả mạo; quét/khai thác lỗ hổng trái phép; dùng Công cụ để tạo, phát tán mã độc, spam, nội dung vi phạm pháp luật, thù hằn, bạo lực, khiêu dâm trẻ vị thành niên; sử dụng cho mục đích quân sự/giám sát xâm phạm nếu pháp luật cấm; benchmark công khai khi chưa được phép bằng văn bản.
+
+10) Dịch vụ/Thành phần bên thứ ba
+Công cụ có thể tích hợp API, mô hình AI, thư viện của bên thứ ba. Việc sử dụng các thành phần đó chịu sự điều chỉnh của điều khoản riêng của bên thứ ba. Chúng tôi không chịu trách nhiệm cho gián đoạn hay thay đổi từ bên thứ ba.
+
+11) Dữ liệu, quyền riêng tư và nhật ký
+Chúng tôi có thể thu thập tối thiểu các dữ liệu kỹ thuật để vận hành: loại hệ điều hành, mã định danh thiết bị được băm, trạng thái kích hoạt, số phiên bản, lỗi/nhật ký sự cố. Dữ liệu cá nhân (nếu có) được xử lý theo Chính sách bảo mật. Bạn có thể tắt một số telemetry không bắt buộc (nếu tính năng có sẵn), nhưng tắt có thể giới hạn hỗ trợ.
+
+12) Trí tuệ nhân tạo và tuyên bố miễn trừ
+Đầu ra do AI tạo có thể không chính xác, thiên lệch, hoặc không phù hợp mọi mục đích. Không được coi là tư vấn y tế, pháp lý, tài chính hay kỹ thuật chuyên môn. Bạn phải xem xét và chịu trách nhiệm cuối cùng đối với việc sử dụng đầu ra.
+
+13) Phí, thanh toán và hoàn tiền
+Nếu Công cụ thu phí, bạn đồng ý thanh toán đúng hạn theo bảng giá công bố. Trừ khi pháp luật bắt buộc hoặc chính sách nêu rõ, các khoản đã thanh toán là không hoàn lại. Thuế/phí liên quan do bạn tự chịu.
+
+14) Hỗ trợ kỹ thuật và SLA
+Hỗ trợ ở mức “nỗ lực hợp lý” qua [email/kênh hỗ trợ]. Không đảm bảo thời gian khắc phục sự cố trừ khi có SLA riêng bằng văn bản. Chúng tôi có thể yêu cầu bạn cung cấp log/chi tiết môi trường để hỗ trợ.
+
+15) Bảo mật, chống can thiệp và chống gian lận
+Công cụ có cơ chế tự kiểm tính toàn vẹn, kiểm tra băm, token-gate, và phát hiện can thiệp. Phát hiện hành vi nghi vấn có thể dẫn đến vô hiệu hóa tạm thời hoặc vĩnh viễn. Bạn đồng ý không né tránh, vô hiệu hoặc tìm cách qua mặt bất kỳ biện pháp bảo vệ nào.
+
+16) Tuyên bố miễn trừ bảo đảm
+Công cụ được cung cấp “nguyên trạng” và “theo sẵn có” mà không có bất kỳ bảo đảm minh thị hay ngụ ý nào (khả năng bán được, phù hợp mục đích cụ thể, không vi phạm). Bạn chịu rủi ro khi sử dụng.
+
+17) Giới hạn trách nhiệm
+Trong phạm vi tối đa cho phép theo luật, chúng tôi không chịu trách nhiệm cho bất kỳ thiệt hại gián tiếp, ngẫu nhiên, đặc biệt, hệ quả hoặc mất lợi nhuận. Tổng trách nhiệm tích lũy tối đa của chúng tôi đối với mọi khiếu nại liên quan đến Công cụ sẽ không vượt quá số tiền bạn đã trả trong 12 tháng liền kề trước thời điểm phát sinh khiếu nại.
+
+18) Bồi thường thiệt hại (Indemnity)
+Bạn đồng ý bồi thường, bảo vệ và giữ cho chúng tôi không bị thiệt hại trước mọi khiếu nại, trách nhiệm, chi phí phát sinh từ việc bạn sử dụng Công cụ trái Điều khoản, vi phạm pháp luật hoặc quyền của bên thứ ba.
+
+19) Chấm dứt và đình chỉ
+Chúng tôi có thể đình chỉ hoặc chấm dứt quyền truy cập nếu bạn vi phạm Điều khoản hoặc theo yêu cầu của cơ quan có thẩm quyền. Khi chấm dứt, mọi quyền được cấp sẽ chấm dứt và bạn phải ngừng sử dụng, gỡ bỏ Công cụ.
+
+20) Luật áp dụng và giải quyết tranh chấp
+Điều khoản này chịu sự điều chỉnh của pháp luật [VIỆT NAM/QUỐC GIA KHÁC]. Tranh chấp trước tiên được thương lượng thiện chí trong [30] ngày. Nếu không đạt, tranh chấp được giải quyết tại [TÒA ÁN/ TRỌNG TÀI] có thẩm quyền tại [ĐỊA ĐIỂM].
+
+21) Điều khoản chung
+Nếu một điều khoản bị vô hiệu, phần còn lại vẫn có hiệu lực. Điều khoản này là toàn bộ thỏa thuận giữa các bên về nội dung liên quan và thay thế mọi thỏa thuận trước đó. Không bên nào bị coi là từ bỏ quyền nếu không lập thành văn bản.
+
+22) Thay đổi điều khoản và thông báo
+Chúng tôi có thể cập nhật Điều khoản. Khi thay đổi đáng kể, chúng tôi sẽ thông báo qua [trang chủ/ email/ thông báo trong ứng dụng]. Việc bạn tiếp tục sử dụng sau ngày hiệu lực bản cập nhật là bạn chấp nhận thay đổi.
+
+23) Liên hệ
+Mọi câu hỏi xin liên hệ: [EMAIL HỖ TRỢ], [WEBSITE], [ĐỊA CHỈ DOANH NGHIỆP].
+
+########################################################################################
+
+CẬP NHẬT CÔNG CỤ, QUYỀN SỬ DỤNG KHÔNG GIỚI HẠN VÀ CÁC NGOẠI LỆ PHỤ THUỘC BÊN THỨ BA
+
+1) Quyền sử dụng không giới hạn
+- Chúng tôi cấp cho bạn giấy phép sử dụng [VEO3 PLUS] không giới hạn về thời gian và số lượt sử dụng, không độc quyền, không chuyển nhượng, chỉ cho mục đích [cá nhân/nội bộ doanh nghiệp] theo Điều khoản này.
+- Quyền sử dụng không bao gồm chi phí, hạn mức, hay điều kiện do bên thứ ba áp đặt (ví dụ: phí API, hạn mức token, giới hạn tốc độ, quota mô hình AI).
+
+2) Cam kết cập nhật hợp lý
+- Chúng tôi nỗ lực hợp lý để cập nhật, vá lỗi, cải thiện tính ổn định, và duy trì khả năng tương thích của [VEO3 PLUS] với các môi trường được hỗ trợ.
+- Chúng tôi không bảo đảm khả năng tương thích vĩnh viễn với mọi phiên bản hệ điều hành, phần cứng, driver hoặc dịch vụ bên thứ ba trong tương lai.
+
+3) Ngoại lệ bất khả kháng & phụ thuộc bên thứ ba (KHÔNG tính là vi phạm)
+Trong các trường hợp dưới đây, [VEO3 PLUS] có thể tạm ngừng, hạn chế, thay đổi hoặc ngừng một phần/tính năng mà không bị coi là vi phạm nghĩa vụ và không phát sinh trách nhiệm bồi thường:
+  3.1. Bên thứ ba (ví dụ: nhà cung cấp AI/API, nền tảng đám mây, kho model) ngừng cung cấp, thay đổi chính sách/điều khoản sử dụng, thay đổi thông số kỹ thuật, khóa vùng, hạn mức, giá, hoặc cơ chế xác thực khiến tính năng phụ thuộc không thể vận hành.
+  3.2. Không tương thích phát sinh do thay đổi từ hệ điều hành, phần cứng, trình điều khiển, phần mềm an ninh hoặc mạng do người dùng quản trị gây ra hoặc do nhà sản xuất phát hành.
+  3.3. Yêu cầu pháp lý/quy định/điều lệnh hoặc thay đổi chính sách tuân thủ (ví dụ: chính sách an toàn AI, bảo vệ dữ liệu) buộc phải vô hiệu hóa, chỉnh sửa hay lọc bỏ một số chức năng/đầu ra.
+  3.4. Sự cố bảo mật đòi hỏi vô hiệu hóa khẩn cấp để bảo vệ người dùng/hệ thống/dữ liệu.
+  3.5. Sự kiện bất khả kháng: thiên tai, dịch bệnh, chiến tranh, bạo loạn, mất điện diện rộng, đứt cáp/bất thường hạ tầng Internet, hành vi của cơ quan nhà nước, hoặc các biến cố tương tự nằm ngoài khả năng kiểm soát hợp lý.
+
+4) Biện pháp khắc phục khả dụng
+Khi xảy ra mục 3, chúng tôi sẽ nỗ lực hợp lý để:
+  (i) Cung cấp bản vá/điều chỉnh cấu hình/hướng dẫn thay thế; hoặc
+  (ii) Tích hợp nhà cung cấp/API thay thế (nếu khả thi về kỹ thuật/pháp lý/chi phí); hoặc
+  (iii) Vô hiệu hóa có chọn lọc phần/tính năng bị ảnh hưởng để phần còn lại tiếp tục hoạt động.
+Bất kỳ tín dụng/hoàn phí (nếu có) sẽ tuân theo chính sách giá/hoàn tiền hiện hành và chỉ áp dụng cho phần dịch vụ do chúng tôi trực tiếp thu phí.
+
+5) Quyền thay đổi/loại bỏ tính năng phụ thuộc bên thứ ba
+Chúng tôi có quyền sửa đổi hoặc loại bỏ các tính năng phụ thuộc vào dịch vụ bên thứ ba mà không cần thông báo trước nếu việc duy trì là không khả thi về mặt kỹ thuật, pháp lý, hoặc kinh tế.
+
+6) Giới hạn trách nhiệm liên quan
+Trong phạm vi pháp luật cho phép, chúng tôi không chịu trách nhiệm đối với việc gián đoạn/giảm chất lượng/không sẵn sàng do các tình huống tại mục 3. Tổng trách nhiệm (nếu có) sẽ bị giới hạn theo điều khoản Giới hạn trách nhiệm của Hợp đồng/Điều khoản này.

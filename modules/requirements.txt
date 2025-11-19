@@ -1,0 +1,12 @@
+selenium
+webdriver-manager
+undetected-chromedriver
+customtkinter
+requests
+setuptools
+certifi
+google-generativeai
+psutil
+Pillow
+imageio-ffmpeg
+tzdata>=2024.1
